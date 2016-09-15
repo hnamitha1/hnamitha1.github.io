@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Namitha Hanumantharaya
+title: Namitha H
 permalink: /about/
 ---
 
