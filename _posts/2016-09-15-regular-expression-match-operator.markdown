@@ -1,7 +1,5 @@
 ---
 layout: post
-title:  "---
-layout: post
 title:  "What is the “=~” operator in Ruby?"
 date:   2016-03-20 19:05:34 +0000
 categories: regex
