@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Namitha H
+title: about
 permalink: /about/
 ---
 
