@@ -1,4 +1,4 @@
-# External gems
+-# External gems
 # See http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html for making `jekyll archives` work.
 gems:
   - jekyll-archives # Sorry, not GitHub pages friendly!
@@ -9,17 +9,17 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+title: Learning Journey
+subtitle: "A blog about anything, but usually about coding."
+email: namitha.h@gmail.com
+name: Namitha Hanumantharaya
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  Looking for an exciting opportunities where I can continue to learn and grow as a developer.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
-# baseurl: "/centrarium" # the subpath of your site, e.g. /blog/
-url: "http://bencentra.github.io" # the base hostname & protocol for your site
+baseurl: "/centrarium" # the subpath of your site, e.g. /blog/
+url: "http://hnamitha1.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
@@ -86,15 +86,15 @@ social:
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: hnamitha1
+    url: https://github.com/hnamitha1
     desc: Fork me on GitHub
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username: Namitha H
+    url: https://www.linkedin.com/in/namitha-h-34957b18?trk=hp-identity-name
     desc: Connect with me on LinkedIn
     share: true
 
